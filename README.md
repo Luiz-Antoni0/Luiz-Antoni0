@@ -14,6 +14,7 @@
   <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
 </div>
  
+  <br>
  
   <!-- ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!-->
  
