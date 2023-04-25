@@ -2,19 +2,18 @@
 <br>
 <div>
   <a href="https://github.com/Luiz-Antoni0">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Luiz-Antoni0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Antoni0&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Antoni0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Antoni0&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ### Estou estudando atualmente:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
+  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
 </div>
  
- <br>
  
   <!-- ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!-->
  
