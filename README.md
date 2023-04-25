@@ -6,7 +6,7 @@
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Antoni0&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-## Estou estudando atualmente:
+### Estou estudando atualmente:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
