@@ -1,4 +1,4 @@
-# Olá! Seja bem-vindo(a) ao meu perfil, me chamo Luiz Antônio.
+# Olá! Seja bem-vindo(a) ao meu perfil.
 <br>
 <div>
   <a href="https://github.com/Luiz-Antoni0">
