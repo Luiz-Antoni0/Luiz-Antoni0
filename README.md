@@ -1,6 +1,7 @@
 # Olá! Seja bem-vindo(a) ao meu perfil, me chamo Luiz Antônio.
 <br>
 <div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Antoni0)](https://github.com/anuraghazra/github-readme-stats)]
   <a href="https://github.com/Luiz-Antoni0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Antoni0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Antoni0&layout=compact&langs_count=6&theme=tokyonight"/>
