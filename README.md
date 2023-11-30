@@ -30,7 +30,6 @@
   <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
   
-  ![Animação de cobra](https://github.com/Luiz-Antoni0/Luiz-Antoni0/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
