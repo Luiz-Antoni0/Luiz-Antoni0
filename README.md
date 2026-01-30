@@ -23,7 +23,7 @@
 ---
 
 <!-- GRID PRINCIPAL -->
-<table style="width:100%;table-layout:fixed;border-collapse:collapse;justify-content:center">
+<table style="width:100%;table-layout:fixed;border-collapse:collapse;align-item:center">
 <tr>
 
 <!-- COLUNA ESQUERDA (CARD ÚNICO) -->
