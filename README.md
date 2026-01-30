@@ -35,7 +35,7 @@
 ### 🧠 Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento.  
-Atualmente, busco oportunidades para ganhar experiência e me tornar um  
+Atualmente, busco oportunidades para ganhar </br>experiência e me tornar um  
 <strong>desenvolvedor full stack</strong>.
 
 </td></tr>
