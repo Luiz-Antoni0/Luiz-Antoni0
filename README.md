@@ -86,7 +86,8 @@ Meu portfólio pessoal em desenvolvimento.
 <tr><td>
 
 #### todo-list-app
-Aplicativo de lista de tarefas usando JavaScript.
+Aplicativo de lista de tarefas usando 
+JavaScript.
 
  `JavaScript` `CSS`
 
