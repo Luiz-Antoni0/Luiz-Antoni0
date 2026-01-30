@@ -38,7 +38,17 @@ Sou apaixonado por tecnologia e desenvolvimento.
 Atualmente, busco oportunidades para ganhar experiência e me tornar um  
 <strong>desenvolvedor full stack</strong>.
 
----
+</td></tr>
+</table>
+
+</td>
+
+<!-- COLUNA DIREITA (2 CARDS EMPILHADOS) -->
+<td style="width:50%;vertical-align:top;">
+
+<!-- HABILIDADES (card) -->
+<table style="width:100%;table-layout:fixed;border-collapse:collapse;">
+<tr><td>
 
 ### 🛠️ Habilidades
 
@@ -48,7 +58,14 @@ Atualmente, busco oportunidades para ganhar experiência e me tornar um
 <img style="max-width:100%;height:auto;display:inline-block;" src="https://img.shields.io/badge/CSS-2b3650?style=flat-square&logo=css3&logoColor=1572B6"/>
 <img style="max-width:100%;height:auto;display:inline-block;" src="https://img.shields.io/badge/JavaScript-2b3650?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 
----
+</td></tr>
+</table>
+
+<br/>
+
+<!-- CONTATE-ME (card) -->
+<table style="width:100%;table-layout:fixed;border-collapse:collapse;">
+<tr><td>
 
 ### 📬 Contate-me
 
@@ -56,39 +73,6 @@ Atualmente, busco oportunidades para ganhar experiência e me tornar um
 <a href="#"><img style="max-width:100%;height:auto;display:inline-block;" src="https://img.shields.io/badge/Discord-2b3650?style=flat&logo=discord&logoColor=5865F2"/></a>
 <a href="#"><img style="max-width:100%;height:auto;display:inline-block;" src="https://img.shields.io/badge/Gmail-2b3650?style=flat&logo=gmail&logoColor=EA4335"/></a>
 <a href="#"><img style="max-width:100%;height:auto;display:inline-block;" src="https://img.shields.io/badge/LinkedIn-2b3650?style=flat&logo=linkedin&logoColor=0A66C2"/></a>
-
-</td></tr>
-</table>
-
-</td>
-
-<!-- COLUNA DIREITA (2 CARDS EMPILHADOS) -->
-<td style="width:50%;vertical-align:top;">
-
-<!-- CARD 1 -->
-<table style="width:100%;table-layout:fixed;border-collapse:collapse;">
-<tr><td>
-
-### Repositórios em destaque
-
-#### projeto-portfolio
-Meu portfólio pessoal em desenvolvimento.
-
- `HTML` `CSS` `JavaScript`
-
-</td></tr>
-</table>
-
-<br/>
-
-<!-- CARD 2 -->
-<table width="100%">
-<tr><td>
-
-#### todo-list-app
-Aplicativo de lista de tarefas usando <br>JavaScript.
-
- `JavaScript` `CSS`
 
 </td></tr>
 </table>
