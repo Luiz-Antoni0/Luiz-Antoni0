@@ -1,29 +1,108 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=125&section=header&text=Olá!+me+chamo+Luiz+Antonio&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=28"/>
+<div style="font-size:17px; line-height:1.6; max-width:900px; margin:0 auto; padding:0 16px; box-sizing:border-box;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Sejam+todos+bem-vindos(a)+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+<!-- HEADER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071733,50:133b73,100:1e4ca6&text=Olá,%20sou%20Luiz%20Antonio%20👋&fontColor=f8fafc&fontSize=36&animation=fadeIn&fontAlignY=35"
+  />
+</p>
 
-<br>
+<p align="center">
+  Sou um <strong>desenvolvedor frontend iniciante</strong> focado em aprender e construir<br/>
+  projetos com as tecnologias mais atuais.
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luiz-Antoni0&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Antonio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Antoni0&layout=compact&hide_border=true&title_color=00FFFF&text_color=ff91a4&bg_color=0d1117" />
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Git-2b3650?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-2b3650?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-2b3650?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+</p> -->
+
+<p align="center"><em>Desenvolvedor Frontend</em></p>
+
+---
+
+<!-- GRID PRINCIPAL -->
+<table width="100%">
+<tr>
+
+<!-- COLUNA ESQUERDA (CARD ÚNICO) -->
+<td width="50%" valign="top">
+
+<table width="100%">
+<tr><td>
+
+### 🧠 Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento.  
+Atualmente, busco oportunidades para ganhar experiência e me tornar um  
+<strong>desenvolvedor full stack</strong>.
+
+---
+
+### 🛠️ Habilidades
+
+<img src="https://img.shields.io/badge/Git-2b3650?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-2b3650?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-2b3650?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS-2b3650?style=flat-square&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-2b3650?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+
+---
+
+### 📬 Contate-me
+
+<a href="#"><img src="https://img.shields.io/badge/Instagram-2b3650?style=flat&logo=instagram&logoColor=E4405F"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-2b3650?style=flat&logo=discord&logoColor=5865F2"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-2b3650?style=flat&logo=gmail&logoColor=EA4335"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-2b3650?style=flat&logo=linkedin&logoColor=0A66C2"/></a>
+
+</td></tr>
+</table>
+
+</td>
+
+<!-- COLUNA DIREITA (2 CARDS EMPILHADOS) -->
+<td width="50%" valign="top">
+
+<!-- CARD 1 -->
+<table width="100%">
+<tr><td>
+
+### Repositórios em destaque
+
+#### projeto-portfolio
+Meu portfólio pessoal em desenvolvimento.
+
+ `HTML` `CSS` `JavaScript`
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- CARD 2 -->
+<table width="100%">
+<tr><td>
+
+#### todo-list-app
+Aplicativo de lista de tarefas usando JavaScript.
+
+ `JavaScript` `CSS`
+
+</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:071733,50:133b73,100:1e4ca6&section=footer"
+  />
+</p>
+
 </div>
-
-<br>
-
-<div align="center"> 
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href ="#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
-### Habilidades:
-
-<div style="display: flex">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">CSS
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
