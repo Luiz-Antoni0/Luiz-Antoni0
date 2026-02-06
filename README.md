@@ -1,4 +1,4 @@
-<div style="font-size:18px; line-height:1.6; max-width:800px; margin:0 auto; padding:0 16px; box-sizing:border-box;">
+<div style="font-size:17px; line-height:1.6; max-width:800px; margin:0 auto; padding:0 16px; box-sizing:border-box;">
 
 <!-- HEADER -->
 <p align="center">
@@ -7,12 +7,12 @@
   />
 </p>
 
-<p align="center">
+<p align="center" style="font-size:18px;">
   Sou um <strong>desenvolvedor frontend iniciante</strong> focado em aprender e construir<br/>
   projetos com as tecnologias mais atuais.
 </p>
 
-<p align="center"><em>Desenvolvedor Frontend</em></p>
+<p align="center" style="font-size:18px;"><em>Desenvolvedor Frontend</em></p>
 
 <hr>
 
