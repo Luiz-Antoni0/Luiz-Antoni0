@@ -1,4 +1,4 @@
-<div style="font-size:17px; line-height:1.6; max-width:800px; margin:0 auto; padding:0 16px; box-sizing:border-box;">
+<div style="font-size:19px; line-height:1.6; max-width:800px; margin:0 auto; padding:0 16px; box-sizing:border-box;">
 
 <!-- HEADER -->
 <p align="center">
@@ -7,12 +7,12 @@
   />
 </p>
 
-<p align="center" style="font-size:22px;">
+<p align="center" style="font-size:20px;">
   Sou um <strong>desenvolvedor frontend iniciante</strong> focado em aprender e construir<br/>
   projetos com as tecnologias mais atuais.
 </p>
 
-<p align="center" style="font-size:18px;"><em>Desenvolvedor Frontend</em></p>
+<p align="center" style="font-size:20px;"><em>Desenvolvedor Frontend</em></p>
 
 <hr>
 
@@ -22,8 +22,8 @@
   <tr>
     <!-- COLUNA ESQUERDA (Sobre mim) -->
     <td style="width:50%;vertical-align:top; padding-right:8px;">
-      <h3 style="font-size:20px;">🧠 Sobre mim</h3>
-      <p style="font-size:18px;">Sou apaixonado por tecnologia e desenvolvimento.<br>
+      <h3>🧠 Sobre mim</h3>
+      <p>Sou apaixonado por tecnologia e desenvolvimento.<br>
       Atualmente, busco oportunidades para ganhar experiência e me tornar um<br>
       <strong>desenvolvedor full stack</strong>.</p>
     </td>
