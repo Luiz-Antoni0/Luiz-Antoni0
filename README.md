@@ -7,7 +7,7 @@
   />
 </p>
 
-<p align="center" style="font-size:18px;">
+<p align="center" style="font-size:22px;">
   Sou um <strong>desenvolvedor frontend iniciante</strong> focado em aprender e construir<br/>
   projetos com as tecnologias mais atuais.
 </p>
@@ -22,8 +22,8 @@
   <tr>
     <!-- COLUNA ESQUERDA (Sobre mim) -->
     <td style="width:50%;vertical-align:top; padding-right:8px;">
-      <h3>🧠 Sobre mim</h3>
-      <p>Sou apaixonado por tecnologia e desenvolvimento.<br>
+      <h3 style="font-size:20px;">🧠 Sobre mim</h3>
+      <p style="font-size:18px;">Sou apaixonado por tecnologia e desenvolvimento.<br>
       Atualmente, busco oportunidades para ganhar experiência e me tornar um<br>
       <strong>desenvolvedor full stack</strong>.</p>
     </td>
