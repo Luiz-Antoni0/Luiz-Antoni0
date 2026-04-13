@@ -8,7 +8,7 @@
 </p>
 
 <p align="center" style="font-size:20px;">
-  Sou um <strong>desenvolvedor frontend iniciante</strong> focado em aprender e construir<br/>
+  Sou um <strong>desenvolvedor frontend</strong> focado em aprender e construir<br/>
   projetos com as tecnologias mais atuais.
 </p>
 
